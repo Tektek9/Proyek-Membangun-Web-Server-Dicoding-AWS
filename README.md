@@ -1,10 +1,9 @@
-# Dibuat oleh Taukhid Aji Nurwijayadi
 # Tugas Proyek Membangun Web Server
 # AWS Dicoding
 ---
 Alur menjalankan:
 ```sh
-git clone https://github.com/taukhidajin/Proyek-Membangun-Web-Server-Dicoding-AWS---Taukhid-Aji-Nurwijayadi.git
+git clone https://github.com/samCukid/Proyek-Membangun-Web-Server-Dicoding-AWS---Taukhid-Aji-Nurwijayadi.git
 ```
 Lalu lakukan ini
 ```sh
