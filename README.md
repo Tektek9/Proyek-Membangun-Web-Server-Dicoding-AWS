@@ -3,7 +3,7 @@
 ---
 Alur menjalankan:
 ```sh
-git clone https://github.com/samCukid/Proyek-Membangun-Web-Server-Dicoding-AWS---Taukhid-Aji-Nurwijayadi.git
+git clone https://github.com/Tektek9/Proyek-Membangun-Web-Server-Dicoding-AWS---Taukhid-Aji-Nurwijayadi.git
 ```
 Lalu lakukan ini
 ```sh
